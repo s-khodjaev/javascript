@@ -88,12 +88,12 @@ function generatePlayerCard(name, age, height) {
 // have that function return html that looks like this:
 // {
 //   /* <div class="playerCard">
-//   <h2>NAME — AGE</h2>
-//   <p>
-//     They are HEIGHT and AGE years old. In Dog years this person would be
-//     AGEINDOGYEARS. That would be a tall dog!
-//   </p>
-// </div>; */
+/*  <h2>NAME — AGE</h2>
+  <p>
+    They are HEIGHT and AGE years old. In Dog years this person would be
+    AGEINDOGYEARS. That would be a tall dog!
+  </p>
+</div>; */
 // }
 
 // make a new div with a class of cards
